@@ -1,0 +1,2 @@
+# Steam-Oyun-De-erlendirmelerinde-B-lgesel-Oynama-Profillerine-G-re-Oyuncu-Memnuniyeti
+İki aşamalı bu proje, pazar ve zaman bazlı oyun tüketimini analiz edip oyuncu memnuniyetini tahmin etmeyi amaçlar. İlk aşamada ülke, zaman ve oynama süreleri K-Means ile kümelenerek bölgesel profiller çıkarılır. İkinci aşamada bu profiller, zaman, inceleme süresi, erken erişim ve satın alma türüyle sınıflandırılarak öneri durumu tahmin edilir.
